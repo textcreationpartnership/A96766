@@ -1,0 +1,452 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVithers remembrancer or, Extracts out of Master Withers his booke, called, Britains remembrancer. Worthy of the review and consideration of himselfe, and all other men.</title>
+            <title>Britain's remembrancer. Selections</title>
+            <author>Wither, George, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96766</idno>
+            <idno type="STC">Wing W3186</idno>
+            <idno type="STC">Thomason E1121_1</idno>
+            <idno type="STC">ESTC R204099</idno>
+            <idno type="EEBO-CITATION">99863799</idno>
+            <idno type="PROQUEST">99863799</idno>
+            <idno type="VID">116014</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116014)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 163:E1121[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVithers remembrancer or, Extracts out of Master Withers his booke, called, Britains remembrancer. Worthy of the review and consideration of himselfe, and all other men.</title>
+                  <title>Britain's remembrancer. Selections</title>
+                  <author>Wither, George, 1588-1667.</author>
+               </titleStmt>
+               <extent>[4], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare of our Lord, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "March. 24"; the 3 in the date has been crossed out and replaced with a 2.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116014:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 111 -->
+            <p>VVithers <hi>REMEMBRANCER:</hi> OR, EXTRACTS Out of Maſter WITHERS his Booke, CALLED, <hi>Britains Remembrancer.</hi>
+            </p>
+            <p>Worthy of the review and conſideration of himſelfe, and all other men.</p>
+            <p>LONDON, Printed in the Yeare of our Lord, 1643.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:116014:2"/>
+            <!-- PDF PAGE 112 -->
+            <pb facs="tcp:116014:2"/>
+            <!-- PDF PAGE 112 -->
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here flie abroad cetaine Pamph<g ref="char:EOLhyphen"/>lets in the world, being Extracts of a Poem written by M<hi rend="sup">r</hi> 
+               <hi>George Withers,</hi> called <hi>Britaines Re<g ref="char:EOLhyphen"/>membrancer:</hi> As if there were ſomething in them to tell the world, from the propheticall proviſions of the Author, of ſuch things as are now to befall it. It were yet ſome happineſſe unto us, if that Author, on whom the ſeverer ſort of men look with ſome admiration, might with his book be brought forth to let us ſee the juſt and true meaſure of our condition at this time, which he hath there as prophetically as any thing elſe ſet downe, with ſuch remedies and advices as he thinks neceſſary for our reco<g ref="char:EOLhyphen"/>very; this were to give us ſome hopes yet to out<g ref="char:EOLhyphen"/>live our miſery. But ſince wee cannot for the preſent command him, (being in a poſture of warre above our power) wee ſhall however be<g ref="char:EOLhyphen"/>come
+<pb facs="tcp:116014:3"/>
+               <!-- PDF PAGE 113 -->maſter of his booke; out of which ſome ma<g ref="char:EOLhyphen"/>teriall paſſages are extracted, That <hi>tanquam ex ungue Leonem,</hi> wee may diſcover the ſenſe of ſo popularly Magiſtrall an Author. With mee I muſt confeſſe they prevaile, &amp;c.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116014:3"/>
+            <!-- PDF PAGE 113 -->
+            <head>
+               <hi>Withers</hi> his Remembrancer, <hi>OR,</hi> Extracts out of M<hi rend="sup">r</hi> WITHERS his Booke, called <hi>BRITAINS REMEMBRANCER.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Ith mee I muſt confeſſe they prevaile the more, becauſe I have had a great opinion of the pietie and ſpirituall ir<g ref="char:EOLhyphen"/>radications of the man; (otherwiſe to mee unknowne) and eſpecially of that worke of which this is part: <hi rend="margQuotes">and in which he ſeemes to be warranted by a ſpe<g ref="char:EOLhyphen"/>ciall calling to ſpeak boldly of great matters, and to cenſure where none elſe dares give any judg<g ref="char:EOLhyphen"/>ment.</hi> What therefore he ſayes, is not to be con<g ref="char:EOLhyphen"/>temned; or elſe wee muſt, as the Scripture com<g ref="char:EOLhyphen"/>mands us, try the ſpirit whether it be of God. Now ſince it is knowne, that for a long time Ma<g ref="char:EOLhyphen"/>ſter <hi>George Withers</hi> hath command of a Troope of Horſe in the ſervice of the Parliament, and beene quartered at <hi>Maid-ſtone</hi> in <hi>Kent,</hi> (an act in the firſt motion and progreſſe of it without the commands of the King, and expreſly againſt his Proclamations ſince:) and hath executed ſome things in the Coun<g ref="char:EOLhyphen"/>ty, beyond the ſenſe of his book at leaſt, and needing
+<pb n="2" facs="tcp:116014:4"/>
+               <!-- PDF PAGE 114 -->the omnipotencie of <hi>Peters</hi> chaire, to make, not barbarous words, but actions good; and to recon<g ref="char:EOLhyphen"/>cile what hath beene there done and here written: It is not only convenient, but neceſſary (for the ad<g ref="char:EOLhyphen"/>vantage of the cauſe, and other Chriſtian reſpects) that Maſter <hi>George Withers,</hi> who hath given to ma<g ref="char:EOLhyphen"/>ny weake ones publique offence and ſcandall, doe as publiquely, and as becomes a man of ſuch a ſan<g ref="char:EOLhyphen"/>ctified and religious profeſſion, informe the world upon what grounds of conſcience or reaſon he firſt undertooke ſuch a charge. And I have warrant to preſſe this upon him, not only from mine owne ſcruples, but his owne invitation, expreſſed in the latter end of his Premonition to his booke. <q>If you find ought elſe that may be doubted of, or for which I may ſeeme reproveable or needing advice; Let mee chriſtianly and charitably receive intelligence thereof: And if I make not a reaſona<g ref="char:EOLhyphen"/>ble defence, I will humbly acknowledge, and give the beſt ſatisfaction for my errors that I am able.</q> When this ſhall be done, I ſhall be either converted or confirmed: In either of which I ſhall adhere to truth; in whoſe defence if I periſh, it ſhall be to mee a victorie.</p>
+            <div type="part">
+               <head>
+                  <hi>In Pag. 195. 196. &amp;c.</hi> He is ſo large in reprehending of the ſeditious and ſchiſmaticall wayes of ſepara<g ref="char:EOLhyphen"/>tion; and commends ſo juſtly the heretofore happy government of the Church by Biſhops, that the Reader is to be referred thither for <hi>M. Withers</hi> opinion therein. The reproofes he beſtowes on <hi>Lon<g ref="char:EOLhyphen"/>don, p. 207. 208. &amp;c.</hi> Are likewiſe too large t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be here inſiſted, I deſire the <hi>Londoners</hi> to have re<g ref="char:EOLhyphen"/>courſe to his book.</head>
+               <pb n="3" facs="tcp:116014:4"/>
+               <!-- PDF PAGE 114 -->
+               <lg>
+                  <l>The Church revenues for the preſent need<note place="margin">218. a. b.</note>
+                  </l>
+                  <l>Sequeſtred are (to ſtand a while inſtead</l>
+                  <l>Of Temp'ralties:) And ſome themſelves perſwade</l>
+                  <l>That they will now be lay-poſſeſſions made.</l>
+                  <l>But God forbid: for he that ſhall bereave</l>
+                  <l>The Church of her inheritance, doth leave</l>
+                  <l>A curſe upon his children, which ſhall ſtay</l>
+                  <l>Untill his whole deſcent be worne away.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>In Pag. 219. a.</hi> He hath a proper Elogie of the ver<g ref="char:EOLhyphen"/>tues of that illuſtrious Princeſſe and her iſſue, the <hi>Queen</hi> of <hi>Bohemia.</hi>
+               </head>
+               <lg>
+                  <l>—That illuſtrious Dame</l>
+                  <l>(To whom I owe, ev'n more then all, I am:)</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Whether then, is it fit the Parliament ſhould truſt him with a Troop of Horſe? leſt if Prince <hi>Rupert</hi> ſhould come into <hi>Kent,</hi> he might be as good as his word.</head>
+               <lg>
+                  <l>
+                     <note place="margin">225. a:</note>—Neither art thou ſolely <hi>[He ſpeaks of the Nation.]</hi>
+                  </l>
+                  <l>Deſpiſed and diſhonour'd by thy folly:</l>
+                  <l>But in thoſe miſchiefs which thy ſinne procure</l>
+                  <l>Thy Prince a diſadvantage doth endure:</l>
+                  <l>His vertues are repulſed from that height</l>
+                  <l>Of Honour, whereunto aſſur'd thy might,</l>
+                  <l>Wer't thou leſſe wicked! He whom as our eyes</l>
+                  <l>We ſeemed as but yeſterday to prize;</l>
+                  <l>He for whoſe abſence we ſo much<note n="a" place="margin">In Spain.</note> complain'd,</l>
+                  <l>And wep't, &amp; pray'd, &amp; vow'd, whilſt he remain'd</l>
+                  <l>Divided from us: and at whoſe return,</l>
+                  <l>We did ſo many piles to aſhes burn.</l>
+                  <pb n="4" facs="tcp:116014:5"/>
+                  <!-- PDF PAGE 115 -->
+                  <l>Even he hath not received that content</l>
+                  <l>From us, which he expected, and we meant.</l>
+                  <l>Some ſpirit of diſſention loos'd hath bin,</l>
+                  <l>Some ſparks of diſcord have bin hurled in</l>
+                  <l>And blowne among us: ſo that he and wee</l>
+                  <l>Not ſo well pleaſed in each other bee</l>
+                  <l>As both deſire: And ſhould this flame encreaſe</l>
+                  <l>God knowes how much it would offend our Peace.</l>
+               </lg>
+               <lg>
+                  <l>My Prince and Countrey,<note place="margin">226. a. b.</note> though perhaps I be</l>
+                  <l>Not much to them, are both moſt deare to me:</l>
+                  <l>☞ And may I periſh, if to ſafe my life</l>
+                  <l>I would betwixt that couple nouriſh ſtrife:</l>
+                  <l>Or if for one of them, I that would ſay</l>
+                  <l>Which might from others due take ought away.</l>
+               </lg>
+               <lg>
+                  <l>—to have power and ayme</l>
+                  <l>
+                     <note place="margin">226. b.</note>To touch the Lords annointed I diſclaime:</l>
+                  <l>I have no warrant; neither know I ought</l>
+                  <l>To reprehend him, for although I mought.</l>
+               </lg>
+               <lg>
+                  <l>For as my Princes faults I may not blaze,</l>
+                  <l>So, I am alſo bound (as there is cauſe)</l>
+                  <l>To juſtifie what vertues I doe heare</l>
+                  <l>To be in him: and ſee in him appeare.</l>
+                  <l>The Generall faults of others mine owne eyes</l>
+                  <l>Have ſeen; and that's enough to warrantize</l>
+                  <l>A generall reproofe: but never yet</l>
+                  <l>In him beheld I what did not befit,</l>
+                  <l>His perſon or his place: much have I ſeen</l>
+                  <l>That rather hath an honour to him been.</l>
+                  <l>And whatſoe're ſhall mutter'd be of ſome,</l>
+                  <l>There reigns not any King in Chriſtendome</l>
+                  <pb n="5" facs="tcp:116014:5"/>
+                  <!-- PDF PAGE 115 -->
+                  <l>Of whom there was divulg'd a better fame,</l>
+                  <l>Dr, whom a royall Throne ſo well became:</l>
+                  <l>And what is lately done to blot the ſtorie</l>
+                  <l>Of his deſerts, or to deface his glorie?</l>
+                  <l>Or wherewithall can any tongue traduce</l>
+                  <l>His actions which admitteth no excuſe?</l>
+                  <l>What if the people have expected more</l>
+                  <l>(From hopes by them conceived heretofore)</l>
+                  <l>Then yet ſucceeds? What can from thence redound</l>
+                  <l>To prove his vertues and his wayes unſound?</l>
+                  <l>Why may not this effect ariſe from them</l>
+                  <l>That ſo ſuſpect much rather then from him:</l>
+                  <l>As God long ſince unto the Jewes did ſay</l>
+                  <l>(Who judged him unequall in his way)</l>
+                  <l>So ſay I; <hi>England;</hi> Is thy Soveraigns path</l>
+                  <l>Unequall? or is't rather thine which hath</l>
+                  <l>Such indirectneſſe? wherefore may not all</l>
+                  <l>Which is amiſſe by thine own fault befall?</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">228. a.</note>Let every one examine well his way,</l>
+                  <l>And for himſelfe and for all others pray:</l>
+                  <l>For this is farre more likely to redreſſe</l>
+                  <l>The preſent miſchiefs, then our forwardneſſe.</l>
+                  <l>The party that hath innocencie ſhall</l>
+                  <l>Be ſure to ſtand; though all about him fall:</l>
+                  <l>And, if we all perverſely wicked prove,</l>
+                  <l>We ſhall have all one judgement from above.</l>
+                  <l>If in thy King, O <hi>Brittain,</hi> ought amiſſe</l>
+                  <l>Appeares to be 'twixt God and him it is.</l>
+                  <l>Of him he ſhall be judged: what to thee</l>
+                  <l>Pertaineth it his cenſurer to bee?</l>
+                  <l>If thou ſhalt ſuffer with him thine offence</l>
+                  <l>Deſerv'd it, and nought elſe but penitence</l>
+                  <pb n="6" facs="tcp:116014:6"/>
+                  <!-- PDF PAGE 116 -->
+                  <l>Becomes thy practice; neither ſhall there ought</l>
+                  <l>That's wrong, by other meanes to right be brought.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">228. b.</note>Why may it not be poſſible that thou</l>
+                  <l>Demandeſt what he might not well allow,</l>
+                  <l>Without diſhonour? Or, if all were right</l>
+                  <l>Which thou required'ſt, yet the manner might</l>
+                  <l>Diſtaſt him? or, who certaine is but ſome</l>
+                  <l>(Pretending publique grievances) might come</l>
+                  <l>With private ſpleen and malice to purſue</l>
+                  <l>Thoſe faults in others, which their conſcience knew</l>
+                  <l>Themſelves are guilty of—</l>
+                  <l>If ſo it be, I doe admire the leſſe</l>
+                  <l>That thy Petitions had an ill ſucceſſe.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">229. a.</note>Of Reformation thou doſt ſhew great Zeale,</l>
+                  <l>But ſome corruption maiſt thou not conceale</l>
+                  <l>That marres the bleſſing? art thou ſure thou haſt</l>
+                  <l>No juſt occaſion given to diſtaſte</l>
+                  <l>Thy King? Doe thy complainings all intend</l>
+                  <l>The publique welfare, without private end?</l>
+                  <l>And in preferring them doſt thou commit</l>
+                  <l>No errors? or no deceits forget?</l>
+                  <l>I will not ſay thou did'ſt; but I doe feare</l>
+                  <l>That they who wiſeſt are, in ſome things erre.</l>
+               </lg>
+               <lg>
+                  <l>There alſo were—</l>
+                  <l>Unwiſe and undiſcreet ones,<note place="margin">232. a.</note> mixt among</l>
+                  <l>Our Parliaments, who did thoſe meetings wrong,</l>
+                  <l>
+                     <note place="margin">232. b.</note>By controverting of Religion there,</l>
+                  <l>And moving queſtions that improper are</l>
+                  <l>To that aſſembly. For there is provided</l>
+                  <l>A Synod, wherein ought to be decided</l>
+                  <pb n="7" facs="tcp:116014:6"/>
+                  <!-- PDF PAGE 116 -->
+                  <l>Such matters: and what they determine ſhall</l>
+                  <l>The Parliament may ratifie—</l>
+                  <l>But we may bluſh to ſee how much amiſſe</l>
+                  <l>Some ſtretch the Parliamentall power in this.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>He would not be miſtaken, as if he would not have Parliaments looke after the exerciſes of Religion.</head>
+               <lg>
+                  <l>But my deſire is alſo that they further</l>
+                  <l>The Church affaires in their owne place and order.</l>
+                  <l>—though ſome threaten fearfull things to thoſe</l>
+                  <l>Who dare a Parliamentall power incloſe</l>
+                  <l>Within a bound: yea though, ſome talking things</l>
+                  <l>Prate as if they might make, and unmake Kings.</l>
+                  <l>Coine new Religions—</l>
+               </lg>
+               <lg>
+                  <l>
+                     <note place="margin">234. b.</note>What their forefathers unto them did leave</l>
+                  <l>Let them not ſuffer any to bereave</l>
+                  <l>Their children of. For they may that deny</l>
+                  <l>Even to their King; provided legally</l>
+                  <l>They doe it, in reſiſting his demands</l>
+                  <l>By legall pleadings, not by force of hands.</l>
+               </lg>
+               <lg>
+                  <l>Let them therefore their ancient rights retaine</l>
+                  <l>By all juſt meanes; and let them yeeld againe</l>
+                  <l>The Royall dues:<note place="margin">235. a.</note> for thoſe things proſper not</l>
+                  <l>Which are amiſſe from God or Caeſar got.</l>
+                  <l>All wrongs ſhall be revenged, but none brings</l>
+                  <l>Such vengeance, as the wrong to God, or Kings.</l>
+                  <l>If but in word alone (nay but in thought)</l>
+                  <l>Wee have againſt our Prince committed ought</l>
+                  <pb n="8" facs="tcp:116014:7"/>
+                  <!-- PDF PAGE 117 -->
+                  <l>Which is diſloyall, hid it ſhall not lie,</l>
+                  <l>But be revealed by a winged ſpie.</l>
+               </lg>
+               <lg>
+                  <l>Nor let us as wee doe in corners prate,</l>
+                  <l>As if the ſoveraigne power, or the State</l>
+                  <l>Encroacht injuriouſly; and ſo defame</l>
+                  <l>The Government; diſgrace the royall name;</l>
+                  <l>And nouriſh by degrees an evill ſpirit,</l>
+                  <l>That us of all our peace will diſ-inherit.</l>
+               </lg>
+               <lg>
+                  <l>—Bring not when yee come to plead with Kings</l>
+                  <l>Againſt their claimes, ſome bare conjecturings:</l>
+                  <l>For what thou haſt no utter evidence</l>
+                  <l>To be the right, the right is in thy Prince;</l>
+                  <l>It is a Royalty to Monarchs due—</l>
+               </lg>
+               <lg>
+                  <l>—Let pure humilitie</l>
+                  <l>True pietie,<note place="margin">235. b.</note> due love, and charitie</l>
+                  <l>Be brought along: and when all theſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> yee bring</l>
+                  <l>Then goe with loyalty and meet your King,</l>
+                  <l>In his and your affaires without miſtruſt,</l>
+                  <l>And then (as certainly as God is juſt)</l>
+                  <l>In every due reſpect ye ſhall prevaile,</l>
+                  <l>Or gaine ſome great advantage if yee faile.</l>
+                  <l>Go caſt your ſelves before him with ſubmiſſion;</l>
+                  <l>Preſent him with Petition on Petition</l>
+                  <l>With one accord, and with a fearefull face</l>
+                  <l>Informe him how much hinderance and diſgrace,</l>
+                  <l>
+                     <note place="margin">236. a.</note>Or danger to the land there may accrue,</l>
+                  <l>If he your loyall Counſell ſhall eſchue.</l>
+                  <l>For God, becauſe his lawes wee diſobey,</l>
+                  <l>Us at our Soveraignes feet doth meane to lay</l>
+                  <pb n="9" facs="tcp:116014:7"/>
+                  <!-- PDF PAGE 117 -->
+                  <l>To humble us a while. If wee repent</l>
+                  <l>To all our loyall ſuites he will aſſent;</l>
+                  <l>If otherwiſe, God will give up this land,</l>
+                  <l>Our lives and fortunes, all into his hand.</l>
+                  <l>Goe offer, while to offer you are free;</l>
+                  <l>And what you give him, ſhall peace offerings be:</l>
+                  <l>If that which for atonement you provide</l>
+                  <l>With love and patience be ſanctified.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Speaking of our own inheritable rights and freeholds.</head>
+               <lg>
+                  <l>
+                     <note place="margin">269. b.</note>Thoſe dues we ſhould preſerve with all our might</l>
+                  <l>By pleading of our juſt and ancient right</l>
+                  <l>In humble wiſe; if ſo the ſoveraigne ſtate</l>
+                  <l>Our freedome ſhall attempt to violate.</l>
+                  <l>But when by peacefull meanes we cannot ſave it,</l>
+                  <l>We to the pleaſure of the King muſt leave it,</l>
+                  <l>And unto God our judge: For all the power</l>
+                  <l>In us conſiſts, in ſaying, This is our.</l>
+               </lg>
+               <lg>
+                  <l>This therefore is my rule;<note place="margin">266.</note> That Government.</l>
+                  <l>(What ere it be) in which to me God lent</l>
+                  <l>My birth and breeding; that untill my end,</l>
+                  <l>I will obey and to my power defend.</l>
+                  <l>Yea though it tyrannize, I will denay</l>
+                  <l>No more obedience, then by Law I may;</l>
+                  <l>Ev'n by thoſe Lawes and cuſtomes that doe ſtand</l>
+                  <l>In force, and unrepealed in that Land.</l>
+               </lg>
+               <lg>
+                  <l>—If any faction ſhall conſtraine ☜</l>
+                  <l>That I one fact muſt take, I will maintaine</l>
+                  <l>What bore the Soveraigntie when I came thither,</l>
+                  <l>And I and that will ſtand and fall together.</l>
+               </lg>
+            </div>
+            <div type="conclusion">
+               <pb n="10" facs="tcp:116014:8"/>
+               <!-- PDF PAGE 118 -->
+               <head>To cloſe up all, as in a fit place let us here inſert ſome more of <hi>M<hi rend="sup">r</hi> Withers</hi> his owne lines; which will ſerve for a reaſon too of the Title to theſe few Ex<g ref="char:EOLhyphen"/>tracts.</head>
+               <lg>
+                  <l>Let all thoſe Obſervations I have had</l>
+                  <l>Of others errors be occaſions made</l>
+                  <l>To mind me of my owne:<note place="margin">Cant. 8. pa. 282.</note> and leſt I erre,</l>
+                  <l>Let every man be my Remembrancer.</l>
+                  <l>With ſo much charitie, as I have ſought</l>
+                  <l>To bring their duty more in thought.</l>
+                  <l>And, if in any ſin I linger long</l>
+                  <l>☞ Without repentance: Lord, let every tongue</l>
+                  <l>That names me check me for it: and to me</l>
+                  <l>Become what I to others faine would be.</l>
+               </lg>
+               <closer>Amen</closer>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:116014:8"/>
+               <!-- PDF PAGE 118 -->
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
